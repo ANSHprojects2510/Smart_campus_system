@@ -1,0 +1,5 @@
+tCfuWOqVESBsGnm0
+
+anshr8981_db_user
+
+mongodb+srv://<db_username>:<db_password>@cluster0.wb10vyh.mongodb.net/
